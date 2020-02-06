@@ -14,7 +14,17 @@ public class ReadALine {
 
     System.out.println("You typed: " + balance);
 
-    int amountToWithdraw = 100;
-    int newBalance = balance - amountToWithdraw;
+    // int amountToWithdraw = 100;
+    // int newBalance = balance - amountToWithdraw;
+
+    // System.out.println("Starting balance: " + balance);
+    // System.out.print("Do you want to make a withdrawal? ");
+
+    // String okToWithdraw = input.readline();
+
+    // if ("yes".equalsIgnoreCase(okToWithdraw)) {
+    //   int amountToWithdraw = 1000;
+    //   if (amountToWithdraw )
+    // }
   }
 }
